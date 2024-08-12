@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package message;
+
+option go_package = "../../pkg/service";
+
+message Message {
+  string channel_id = 1;
+  string sender_id = 2;
+  bytes payload = 3;
+  int64 timestamp = 4;
+  string message_id = 5;
+  bool is_persistent = 6;
+}

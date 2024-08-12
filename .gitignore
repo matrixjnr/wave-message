@@ -1,0 +1,40 @@
+# Go related
+bin/
+*.exe
+*.test
+*.out
+*.log
+*.tmp
+
+# Dependency directories
+vendor/
+
+# Binaries
+wave-message
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# MacOS files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Coverage files
+coverage/
+*.cov
+
+# Test output
+*.prof
+*.test
