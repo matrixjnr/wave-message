@@ -3,8 +3,8 @@ package service
 import (
 	"encoding/json"
 	"errors"
-	"log"
 	"github.com/matrixjnr/wave-message/pkg/message"
+	"log"
 )
 
 // MessageService provides functionalities related to Message handling

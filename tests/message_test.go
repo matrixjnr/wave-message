@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"reflect"
 	"testing"
-	"wave-message/internal/service"
-	"wave-message/pkg/message"
+	"github.com/matrixjnr/wave-message/internal/service"
+	"github.com/matrixjnr/wave-message/pkg/message"
 )
 
 // TestCreateMessage_Success tests the successful creation of a message
