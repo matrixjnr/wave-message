@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"log"
-	"wave-message/pkg/message"
+	"github.com/matrixjnr/wave-message/pkg/message"
 )
 
 // MessageService provides functionalities related to Message handling
