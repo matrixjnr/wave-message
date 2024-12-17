@@ -1,4 +1,4 @@
-module wave-message
+module github.com/matrixjnr/wave-message
 
 go 1.22
 
