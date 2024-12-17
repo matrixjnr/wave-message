@@ -2,10 +2,10 @@ package tests
 
 import (
 	"encoding/json"
-	"reflect"
-	"testing"
 	"github.com/matrixjnr/wave-message/internal/service"
 	"github.com/matrixjnr/wave-message/pkg/message"
+	"reflect"
+	"testing"
 )
 
 // TestCreateMessage_Success tests the successful creation of a message
