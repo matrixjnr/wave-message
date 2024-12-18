@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/matrixjnr/wave-message/internal/service"
+	"github.com/matrixjnr/wave-message/pkg/service"
 )
 
 func main() {
