@@ -2,8 +2,8 @@ package tests
 
 import (
 	"encoding/json"
-	"github.com/matrixjnr/wave-message/pkg/service"
 	"github.com/matrixjnr/wave-message/pkg/message"
+	"github.com/matrixjnr/wave-message/pkg/service"
 	"reflect"
 	"testing"
 )
